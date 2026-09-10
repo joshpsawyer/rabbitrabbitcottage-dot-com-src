@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="robots" content="noimageai" />
+  <meta name="robots" content="noai" />
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="{{ title }} - {{ website.title }}">
+  <meta name="description" content="{{ metadesc }}">
+  <meta property="og:description" content="{{ metadesc }}">
+  $for(css)$
+  <link rel="stylesheet" href="$css$">
+  $endfor$
+<title>$if(title)$ $title$ | The LIFE of RABBIT COTTAGE $else$ The LIFE of RABBIT COTTAGE $endif$</title>
+</head>
+<body>
+  <div class="color-scheme-wrapper">
+    <div id="nav-wrapper">
+      <div id="site-logo-text"><a href="/">The LIFE of RABBIT COTTAGE</a></div>
+    </div>
+    <div id="main-wrapper">
+      <main>
+        $if(formatted_id)$<div id="jdid">$formatted_id$</div>$endif$
+        $if(title)$<h1 id="title">$title$</h1>$endif$
+        $if(subtitle)$<h2 id="subtitle">$subtitle$</h2>$endif$
+        $body$
+      </main>
+    </div>
+
+    <div id="footer-wrapper">
+      <footer>
+        <a href="/00-09_rabbit_cottage_website/02_rabbit_cottage_documentation/02.01_about_the_website/">
+          &#8280;
+        </a>
+      </footer>
+    </div>
+  </div>
+</body>
+</html>

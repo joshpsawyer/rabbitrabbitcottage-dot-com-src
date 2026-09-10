@@ -1,0 +1,137 @@
+:root {
+  --site-width: 45rem;
+}
+
+body {
+  font-weight: normal;
+  height: 100vh;
+  overflow-x: auto;
+  overflow-y: scroll;
+  margin: 0 auto;
+  min-width: 320px;
+  font-size: 1.5rem;
+  color: #333;
+}
+
+body .color-scheme-wrapper {
+  display: grid;
+  grid-template-rows: auto 1fr auto;
+  grid-template-columns: 1fr;
+  min-height: 100vh;
+}
+
+#nav-wrapper {
+  padding: 1rem;
+}
+
+#nav-wrapper #site-logo-text {
+  margin: 0 auto 1rem auto;
+  max-width: var(--site-width);
+  text-align: center;
+}
+
+#nav-wrapper #site-logo-text a {
+  text-decoration: none;
+}
+
+#nav-wrapper #header-nav-bar {
+  margin: 0 auto;
+}
+
+#nav-wrapper #header-nav-bar nav {
+  display: flex;
+  margin: 0 auto;
+  max-width: var(--site-width);
+}
+
+#nav-wrapper #header-nav-bar nav a {
+  display: block;
+  text-decoration: none;
+  margin-right: 1rem;
+}
+
+#main-wrapper main {
+  margin: 0 auto;
+  padding: 0 1rem;
+  max-width: var(--site-width);
+}
+
+#footer-wrapper {
+  /*font-family: "Courier", "Courier Prime", "Courier New", sans-serif;*/
+  /*font-weight: bold;*/
+}
+
+#footer-wrapper footer {
+  margin: 0 auto;
+  max-width: var(--site-width);
+  padding: 1rem 1rem 2rem 1rem;
+  text-align: center;
+  font-size: 2rem;
+}
+
+#footer-wrapper footer a {
+  text-decoration: none;
+}
+
+a {
+  outline: 0;
+  color: #555;
+}
+
+a:hover {
+  color: #550000;
+}
+
+/* Headings */
+h1 { /* body is 1.5 rem so 24pt font, so this is 32*/
+  text-transform: uppercase;
+  font-size: 1.2em;
+  font-style: bold;
+  font-weight: 400;
+}
+
+h2 { /*29px*/
+  font-size: 1em;
+  font-style: italic;
+  font-weight: 400;
+}
+
+/* 14px */
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  line-height: 1.1;
+}
+
+#toc ul {
+  width: max-content;
+  margin: 2rem auto;
+  padding-left: 0;
+  font-size: 1.75rem;
+}
+
+#toc ul li {
+  font-style: italic;
+  list-style-type: none;
+  margin-bottom: 1rem;
+}
+
+#toc ul li a {
+  font-style: italic;
+}
+
+#jdid {
+  text-align: center;
+  color: #666;
+}
+
+#title {
+  text-align: center;
+}
+
+#subtitle {
+  text-align: center;
+}
