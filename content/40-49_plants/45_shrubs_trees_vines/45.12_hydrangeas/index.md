@@ -2,6 +2,7 @@
 jdid: "45.12"
 title: Hydrangeas
 subtitle: Everybody needs a hydrangea or ten
+description: on Hydrangeas native and otherwise
 ---
 
 ## Contents
