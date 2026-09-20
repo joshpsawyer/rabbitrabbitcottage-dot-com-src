@@ -6,7 +6,7 @@ title: Shrubs, Trees & Vines Index
 
 <div id="toc">
 
-- [Hollies ............. 45.11](../45.11_hollies/index.md)
-- [Hydrangeas ........... 45.12 ](../45.12_hydrangeas/index.md)
+- [Hollies ............................... 45.11](../45.11_hollies/index.md)
+- [Hydrangeas .................... 45.12 ](../45.12_hydrangeas/index.md)
 
 </div>
