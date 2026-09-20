@@ -92,9 +92,14 @@ h1 { /* body is 1.5 rem so 24pt font, so this is 32*/
 }
 
 h2 { /*29px*/
-  font-size: 1em;
+  font-size: 1.2em;
+  font-style:normal;
+  font-weight: 600;
+}
+h3 {
+  font-size: 1.2em;
   font-style: italic;
-  font-weight: 400;
+  font-weight: 500;
 }
 
 /* 14px */
@@ -135,4 +140,5 @@ h6 {
 
 #subtitle {
   text-align: center;
+  font-style: italic;
 }
