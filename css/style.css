@@ -4,6 +4,7 @@
 
 body {
   font-weight: normal;
+  font-family: "EB Garamond", serif;
   height: 100vh;
   overflow-x: auto;
   overflow-y: scroll;

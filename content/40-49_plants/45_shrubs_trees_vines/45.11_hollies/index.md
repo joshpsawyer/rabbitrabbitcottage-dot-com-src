@@ -13,7 +13,7 @@ subtitle: Of all the trees that are in the wood, the HOLLY bears the crown.
 
 1. In August / September, take a semi-hardwood cutting 3-6 inches long just below a node.
 2. Leave the top two sets of leaves and remove all others.
-3. Dip in rooting hormone and then put in a [prepared milk jug](../../../49_techniques_other_stuff/49.11_winter_sowing/index.md#preparing-milk-jugs), firming soil gently to secure it. (don't use that crap potting soil from ace hardware, it's all clay!)
+3. Dip in rooting hormone and then put in a [prepared milk jug](../../49_techniques_other_stuff/49.11_winter_sowing/index.md#preparing-milk-jugs), firming soil gently to secure it. (don't use that crap potting soil from ace hardware, it's all clay!)
 4. Close milk jug, tape it shut. Write - with grease pencil - date of prop. and plant type
 5. Place it on north side of house, out of direct sun and try to forget about it for a while (you're going to futz with it, knock it off)
 6. Check in about a month for roots by testing for resistance or looking at bottom of jug.

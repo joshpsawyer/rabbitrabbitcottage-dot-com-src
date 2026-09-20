@@ -10,7 +10,7 @@ subtitle: For BETTER or WORSE; some are WEEDS
 - grasses/sedges/rushes ferns 42
 - Bulbs, Corms, & Tubers 43
 - Annual & Cut Flowers 44
-- [Shrubs, Trees & Vines ........... 45](../45_shrubs_trees_vines/45.00_shrubs_trees_vines_index/index.md)
+- [Shrubs, Trees & Vines ........... 45](../../45_shrubs_trees_vines/45.00_shrubs_trees_vines_index/index.md)
 - Vegetables, Fruits & Herbs 46
 - tender & potted plants 47
 - weeds 48
