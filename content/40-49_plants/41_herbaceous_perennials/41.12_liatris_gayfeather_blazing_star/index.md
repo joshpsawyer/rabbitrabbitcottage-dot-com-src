@@ -30,6 +30,8 @@ description: on Liatris spp., the discussion, maintenance and propagation thereo
 
 Acquired from Farmer's Daughter in 2026 in a perennial plant sale. There's no specific variety on the package, e.g. _var. nieuwlandii_, but it was listed as native Northern Blazing Star. I don't know whether it's actually _var. nieuwlandii_, _var. novae-angliae_ or just straight _L. scariosa_ but I am not sure it really matters - it's got the form I wanted, which is loose and conical spikes. Pollinators love it and as I write this at the end of September it contains 3 tall spikes - 4-5 ft - full of beautiful flower clusters.
 
+![Flowers began to open on August 31, 2026. Monarchs found them right away.](liatris002.png)
+
 It's far enough from the house that it's still getting full sun even with the low angle of the sun at the end of September (it's the 27th).
 
 [^1]: <https://web.archive.org/web/20260414092321/https://plants.ces.ncsu.edu/plants/liatris/>. Accessed 2026-09-27.
