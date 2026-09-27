@@ -10,7 +10,8 @@ body {
   overflow-y: scroll;
   margin: 0 auto;
   min-width: 320px;
-  font-size: 1.5rem;
+  font-size: 1.3125rem;
+  line-height: 2rem;
   color: #333;
 }
 
@@ -116,13 +117,13 @@ h6 {
   width: max-content;
   margin: 2rem auto;
   padding-left: 0;
-  font-size: 1.75rem;
+  font-size: 1.5em;
 }
 
 #toc ul li {
   font-style: italic;
   list-style-type: none;
-  margin-bottom: 1rem;
+  margin-bottom: 2rem;
 }
 
 #toc ul li a {
@@ -141,4 +142,8 @@ h6 {
 #subtitle {
   text-align: center;
   font-style: italic;
+}
+
+a.footnote-ref {
+  text-decoration: none;
 }

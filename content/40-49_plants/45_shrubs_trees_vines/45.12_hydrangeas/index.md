@@ -8,7 +8,7 @@ description: on Hydrangeas native and otherwise
 ## Contents
 
 - [Propagation](#propagation)
-- [At Rabbit Cottage](#at-rabbit-cottage)
+- [Rabbit Cottage Plantings](#rabbit-cottage-plantings)
     - [Limelight Hydrangeas](#hydrangea-paniculata-limelight)
     - [Oakleaf Hydrangeas](#hydrangea-quercifolia-oakleaf-hydrangea)
 
@@ -23,7 +23,7 @@ For panicle hydrangeas:
 5. Place it on north side of house, out of direct sun and try to forget about it for a while (you're going to futz with it, knock it off)
 6. Check in about a month for roots by testing for resistance or looking at bottom of jug.
 
-## At Rabbit Cottage
+## Rabbit Cottage Plantings
 
 ### Hydrangea paniculata 'Limelight'
 
