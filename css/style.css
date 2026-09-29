@@ -147,3 +147,16 @@ h6 {
 a.footnote-ref {
   text-decoration: none;
 }
+
+table {
+  margin: 0 auto;
+  border-collapse: collapse;
+}
+
+table, th, td {
+  border: 1px solid #777;
+}
+
+table td, table th {
+  padding: 0.5rem;
+}
